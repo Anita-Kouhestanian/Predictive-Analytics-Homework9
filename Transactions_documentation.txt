@@ -1,0 +1,6 @@
+Dataset has 4 columns and 459,258 records. Below is a brief description of the columns:
+
+Product		(nominal) product name
+Quantity	(interval) # units of product purchased
+Store		(nominal) ID number of a department store
+Transaction	(nominal) ID number of a purchase transaction
